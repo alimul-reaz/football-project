@@ -33,17 +33,7 @@ main {
 
 
 
-.container-2 {
-    background: #7f8c8d;
-    /* background: #ffffff; */
-    padding: 33px 5% 33px 5%;
-    width: 70%;
-    /* margin-top: 21px; */
-    margin-bottom: 21px;
-    border-radius: 10px;
 
-
-}
 
 /* ------------------- */
 
@@ -207,7 +197,7 @@ hr {
 
     /* final-section */
 
-    .container-2 {
+    .container {
         width: 80%;
     }
 
@@ -287,7 +277,7 @@ hr {
 
 
     /* final-section */
-    .container-2 {
+    .container {
         width: 80%;
     }
 
