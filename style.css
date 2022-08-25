@@ -23,11 +23,11 @@ main {
     background: #7f8c8d;
     /* background: #ffffff; */
     padding: 33px 5% 33px 5%;
-    width: 70%;
+    width: 80%;
     /* margin-top: 21px; */
     margin-bottom: 21px;
     border-radius: 10px;
-    height: 1730px;
+
 
 }
 
@@ -41,7 +41,7 @@ main {
     /* margin-top: 21px; */
     margin-bottom: 21px;
     border-radius: 10px;
-    height: fit-content;
+
 
 }
 
@@ -56,12 +56,16 @@ main {
     justify-items: center;
     column-gap: 4%;
     row-gap: 1%;
+    border: 2px solid red;
+
 }
+
 
 .player {
     width: 80%;
     padding: 4% 4% 4% 4%;
     background-color: aliceblue;
+
 
 
 }
@@ -188,7 +192,7 @@ hr {
 
     .container {
         width: 80%;
-        height: 6700px;
+
     }
 
     .players {
@@ -257,7 +261,7 @@ hr {
     /* players seaction */
     .container {
         width: 80%;
-        height: 1900px;
+
     }
 
     .players {
